@@ -1,4 +1,4 @@
-= Quick start
+= Quick start 
 :description: Download the DFINITY Canister SDK and learn how to deploy your first application.
 :keywords: Internet Computer,blockchain,cryptocurrency,ICP tokens,smart contracts,cycles,wallet,software canister,developer onboarding
 :proglang: Motoko
@@ -8,6 +8,11 @@ ifdef::env-github,env-browser[:outfilesuffix:.adoc]
 
 [[quick-start-intro]]
 This {sdk-long-name} provides tools, sample code, and documentation to help you create programs to run on the {IC}.
+
+If you already have an application you would like to deploy to the Internet Computer, you can do so easily via https://fleek.co/[Fleek], which is akin to a Netlify for the open web.
+
+To obtain free cycles to start building on the Internet Computer, you can go to our Cycles Faucet https://faucet.dfinity.org/auth[Cycles Faucet].
+
 The _Quick Start_ tutorial assumes that you are installing the {sdk-short-name} for the first time and illustrates how to create, build, and deploy your first application. 
 
 To keep the instructions simple and focused on the task at hand, the _Quick start_ is split into two scenarios:
